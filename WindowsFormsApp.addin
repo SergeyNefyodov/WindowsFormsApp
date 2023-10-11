@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>WindowsFormsApp</Name>
+        <Assembly>WindowsFormsApp.dll</Assembly>
+        <AddInId>1B8F0C4B-B7B7-4260-B6F4-2711479B8153</AddInId>
+        <FullClassName>WindowsFormsApp.MainCommand</FullClassName>
+        <Text>Приложение WinForms</Text>
+        <VendorId>MyId</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+</RevitAddIns>
